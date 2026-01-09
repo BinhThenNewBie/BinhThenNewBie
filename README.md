@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Bình aka Luxje]
+# Hi there! 👋 I'm Bình
 
 ### 👨‍💻 Software Developer from Vietnam 🇻🇳
 
@@ -20,25 +20,14 @@ I am a passionate developer focused on building robust backend systems and datab
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
   </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=BinhThenNewBie&show_icons=true&theme=dracula&hide_border=true" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BinhThenNewBie&theme=dracula&hide_border=true" />
-  
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinhThenNewBie&layout=compact&theme=dracula&hide_border=true" />
-
-</div>
----
 
 ### 📫 Connect with me
-* **Email:** [binhdath06811@gmail.com]
+* **Email:** binhdath06811@gmail.com
+* **GitHub:** [BinhThenNewBie](https://github.com/BinhThenNewBie)
