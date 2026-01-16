@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Developer from Vietnam 🇻🇳
 
-I am a passionate developer focused on building robust backend systems and database management. I enjoy solving complex problems using Java and optimizing data flow with MySQL.
+Road to full-stack
 
 I make this account for saving all learning stuff and my project
 
