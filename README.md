@@ -4,6 +4,6 @@
 
 👨‍💻 Software Developer from Vietnam 🇻🇳
 
-Grinding....
+Trying to be the cool tech unc
 
 ---
