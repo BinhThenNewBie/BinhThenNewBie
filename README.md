@@ -4,6 +4,6 @@
 
 👨‍💻 Software Developer from Vietnam 🇻🇳
 
-Trying to be the cool tech unc
+Cool tech bro
 
 ---
